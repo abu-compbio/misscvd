@@ -1,10 +1,12 @@
 # misscvd
 
 ```
-DESeq2 -> Differential expression analysis with DESeq2.
+DESeq2
+-> Differential expression analysis with DESeq2.
 ```
 ```
-coexp_analysis_quantile -> Co-expression analysis with coexp heatmap using bicor function of WGCNA.
+coexp_analysis_quantile 
+-> Co-expression analysis with coexp heatmap using bicor function of WGCNA.
 ```
 ```
 coexp_cutree_ModulePreservation.R -> Module preservation analysis with WGCNA, clusters obtained with cutree.
