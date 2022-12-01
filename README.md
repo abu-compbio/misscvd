@@ -11,12 +11,10 @@ coexp_cutree_ModulePreservation.R -> Module preservation analysis with WGCNA, cl
 ```
 ```
 coexp_filtered_dist_rank_analysis.R -> Rank analysis with euclidean distance between correlations of two condition where correlations>0.3 considered.
-```
-```
+
 coexp_find_mostdiff_genes.R -> Rank analysis between 2 comparison, using previous results between 2 conditions. Ex. control male vs control female VS case 
 male vs case female.
-```
-```
+
 coexp_topn_genes.R -> Find N genes closest to a gene in terms of euclidean distance in coexp heatmaps.
 ```
 ```
