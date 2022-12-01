@@ -1,6 +1,6 @@
 # misscvd
 
-```
+
 DESeq2 -> Differential expression analysis with DESeq2.
 coexp_analysis_quantile -> Co-expression analysis with bicor function of WGCNA.
 coexp_cutree_ModulePreservation.R -> Module preservation analysis with WGCNA, clusters obtained with cutree.
@@ -11,4 +11,3 @@ diffexp_case_control.R -> Check the genes which have significantly differential 
 diffexp_case_control.R -> Check the genes which have significantly differential expression in male comparison but not in female comparison.
 diffexp_male_female.R -> Check the genes which change significantly in the opposite direction in male case/control comparison vs female case/control comparison.
 
-```
