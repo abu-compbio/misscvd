@@ -1,11 +1,11 @@
 # misscvd
 
-'''
+```
 DESeq2 -> Differential expression analysis with DESeq2.
-'''
-'''
+```
+```
 coexp_analysis_quantile -> Co-expression analysis with bicor function of WGCNA.
-'''
+```
 coexp_cutree_ModulePreservation.R -> Module preservation analysis with WGCNA, clusters obtained with cutree.
 coexp_filtered_dist_rank_analysis.R -> Rank analysis with euclidean distance between correlations of two condition where correlations>0.3 considered.
 coexp_find_mostdiff_genes.R -> Rank analysis between 2 comparison, using previous results between 2 conditions. Ex. control male vs control female VS case male vs case female.
